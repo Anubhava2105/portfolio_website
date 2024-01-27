@@ -217,7 +217,7 @@ h3{
     position: relative;
 }
 .experience-sub-title{
-    color:rgb(196, 67, 2);
+    color:rgb(85, 85, 85);
     font-weight:600;
     font-size: 1.75rem;
     margin-bottom: 2rem;
@@ -259,16 +259,24 @@ article .icon{
     background: transparent;
 }
 .project-img{
+    
     border-radius: 2rem;
     width:90%;
     height:90%;
 }
-.projects-title{
-    margin:1rem;
-    color:white;
+.project-img1{
+    border-radius: 2rem;
+    height:300px;
+    width:250px;
 }
-.projects-btn{
-    color:white;
+.experience-subtitle-project-title{
+    text-align: center;
+    vertical-align: middle;
+    margin:2rem;
+    color:azure;
+}
+.project-btn{
+    color:rgb(194, 125, 68);
     border-color:rgb(194, 125, 68) ;
 }
 /*contacts*/
