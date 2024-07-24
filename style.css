@@ -337,11 +337,6 @@ article .icon {
   border-color: rgb(194, 125, 68);
   background: transparent;
 }
-.project-img {
-  border-radius: 2rem;
-  width: 90%;
-  height: 90%;
-}
 .project-img1 {
   border-radius: 1.5rem;
   height: 250px;
